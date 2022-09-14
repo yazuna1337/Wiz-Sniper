@@ -1,0 +1,7 @@
+asyncio
+requests
+msmcauth
+httpx
+colorama
+discord
+paramiko
