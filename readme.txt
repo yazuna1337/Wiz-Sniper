@@ -1,4 +1,4 @@
-Wiz and Skull Minecraft Sniper [fake kami owner] 
+Wiz Minecraft Sniper [fake kami owner] 
 
 
 join real kami :
